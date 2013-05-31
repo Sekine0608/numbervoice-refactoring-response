@@ -97,7 +97,7 @@ class NumberVoice {
 			break;
 		case 2:
 			if ((fourDigitIndex == 4 || fourDigitIndex == 3) && continueZeroCount == 1) {
-				resultString = "ジュッ";
+				resultString = "ジッ";
 			} else {
 				resultString = "ジュウ";
 			}
